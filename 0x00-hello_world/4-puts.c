@@ -1,4 +1,5 @@
-aiinclude <ng is like building a multilingual puzzle"atdio.h>
+include <"stdio.h>
+
 /**
 *main - print the string in the function
 *
