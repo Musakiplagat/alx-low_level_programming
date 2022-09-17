@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-*main. print the string in the function
+*main - print the string in the function
 *
 *description:using the main function
-*this program rints
+*this program prints ""Programming is like building a multilingual puzzle
 *returns :0
 */
 int main(void)
